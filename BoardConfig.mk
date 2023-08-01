@@ -9,6 +9,8 @@ DEVICE_PATH := device/xiaomi/redwood
 # Ignore overriding commands errors
 BUILD_BROKEN_DUP_RULES := true
 
+RELAX_USES_LIBRARY_CHECK=true
+
 # Inherit from sm7325-common
 include device/xiaomi/sm7325-common/BoardConfigCommon.mk
 
