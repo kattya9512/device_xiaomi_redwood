@@ -16,12 +16,6 @@ leds-qti-flash.ko
 llcc_perfmon.ko
 machine_dlkm.ko
 mbhc_dlkm.ko
-mi_thermal_interface.ko
-mmhardware_detect.ko
-mmhardware_sysfs_dlkm.ko
-modules.alias
-modules.dep
-modules.softdep
 native_dlkm.ko
 nfc_i2c.ko
 pinctrl_lpi_dlkm.ko
