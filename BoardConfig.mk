@@ -33,3 +33,6 @@ BOARD_DTBOIMG_PARTITION_SIZE := 25165824
 
 # Include proprietary files
 include vendor/xiaomi/redwood/BoardConfigVendor.mk
+
+# Include firmware
+include vendor/xiaomi/redwood-firmware/config.mk
